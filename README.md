@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hirokez
+- 👀 I’m interested in learning how to code for my upcomming University classes
+- 🌱 I’m currently learning Java/Javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me here: ratajczak786@gmail.com
